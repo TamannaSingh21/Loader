@@ -1,1 +1,3 @@
-# Loader
+npm install 
+
+npm run dev
